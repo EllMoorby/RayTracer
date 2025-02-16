@@ -1,0 +1,39 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# CLion-specific files
+.idea/
+cmake-build-*/
+
+# CMake build files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Compiled binaries
+*.exe
+*.out
+*.a
+*.o
+*.so
+*.dll
+*.dylib
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# SFML DLLs (optional: ignore if you don't want to push them)
+bin/*.dll
+
+# User-specific files
+*.iml
+.DS_Store
+.vscode/

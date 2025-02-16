@@ -43,7 +43,7 @@
 				}
 			],
 			"type" : "STRING",
-			"value" : "Debug"
+			"value" : "Release"
 		},
 		{
 			"name" : "CMAKE_CACHEFILE_DIR",
@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/ellio/CLionProjects/RayTracer/cmake-build-debug"
+			"value" : "c:/Users/ellio/CLionProjects/RayTracer/cmake-build-release"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/ellio/CLionProjects/RayTracer/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/ellio/CLionProjects/RayTracer/cmake-build-release/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -1279,7 +1279,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/ellio/CLionProjects/RayTracer/cmake-build-debug"
+			"value" : "C:/Users/ellio/CLionProjects/RayTracer/cmake-build-release"
 		},
 		{
 			"name" : "RayTracer_IS_TOP_LEVEL",
@@ -1368,30 +1368,6 @@
 			],
 			"type" : "FILEPATH",
 			"value" : "C:/SFML/lib/libsfml-audio-s.a"
-		},
-		{
-			"name" : "SFML_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "The directory containing a CMake configuration file for SFML."
-				}
-			],
-			"type" : "PATH",
-			"value" : "SFML_DIR-NOTFOUND"
-		},
-		{
-			"name" : "SFML_DOC_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Path to a file."
-				}
-			],
-			"type" : "PATH",
-			"value" : "SFML_DOC_DIR-NOTFOUND"
 		},
 		{
 			"name" : "SFML_GRAPHICS_LIBRARY_DYNAMIC_DEBUG",
