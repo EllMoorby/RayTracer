@@ -1,0 +1,8 @@
+# ninja log v6
+2	342	7614314808238404	build.ninja	61151e49877640b0
+44	770	7614311194249582	CMakeFiles/RayTracer.dir/vec3.cpp.obj	71e6cc9fa8534b2d
+40	808	7614311194219491	CMakeFiles/RayTracer.dir/Ray.cpp.obj	7735e9dfeac14121
+36	2282	7614311194176818	CMakeFiles/RayTracer.dir/Camera.cpp.obj	b5df91061986a98b
+23	1783	7614311194039532	CMakeFiles/RayTracer.dir/main.cpp.obj	6c7d11cf60e69d77
+26	2313	7614311194074091	CMakeFiles/RayTracer.dir/World.cpp.obj	e6308298b8595914
+2313	2442	7614311216943900	RayTracer.exe	d08874748ab83833
