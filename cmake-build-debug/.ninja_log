@@ -1,7 +1,0 @@
-# ninja log v6
-22	1371	7614299280545894	CMakeFiles/RayTracer.dir/vec3.cpp.obj	40961d3d168d2c80
-18	1367	7614299280501172	CMakeFiles/RayTracer.dir/Ray.cpp.obj	b51f215c8f1805fe
-13	2169	7614349463819418	CMakeFiles/RayTracer.dir/Camera.cpp.obj	faecd9a380b422d6
-6	2000	7614356576209210	CMakeFiles/RayTracer.dir/main.cpp.obj	2b7de15570f8d488
-5	1590	7614359049221570	CMakeFiles/RayTracer.dir/World.cpp.obj	d35c0d0097218cbb
-1591	1713	7614359065072574	RayTracer.exe	2d2191151249410f
