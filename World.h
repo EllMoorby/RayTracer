@@ -4,6 +4,7 @@
 #include <SFML\System.hpp>
 
 #include "Camera.h"
+#include "Ray.h"
 
 
 class World {
@@ -16,7 +17,11 @@ public:
     void createWindow();
     void update(); //Runs every frame
     void destroyWindow();
-    void test();
+    sf::Color rayColor(const Ray& ray);
+    bool hitSphere(const vec3& center, float radius, const Ray& ray);
+
+    void drawScreen();
+
 
 private:
     sf::RenderWindow window;
